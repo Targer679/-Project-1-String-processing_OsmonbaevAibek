@@ -1,0 +1,58 @@
+WELCOME TO THE HANGMAN GAME!!
+THE GOAL OF THIS GAME IS TO GUESS THE WORD BY TYPING LETTERS
+YOU HAVE 8 LIVES, EACH WRONG GUESS WILL TAKE AWAY 1 LIVE
+IF YOU HAVE 0 LIVES, THE GAME WILL END
+TYPE IN CAPITAL LETTERS ONLY
+3
+___
+O
+LIVES LEFT: 7
+  *****
+  *
+  *
+  *
+  *
+*****
+A
+LIVES LEFT: 6
+  *****
+  *   |
+  *
+  *
+  *
+*****
+I
+LIVES LEFT: 5
+  *****
+  *   |
+  *   O
+  *
+  *
+  *
+*****
+E
+LIVES LEFT: 4
+  *****
+  *   |
+  *   O
+  *   |
+  *
+  *
+*****
+U
+_U_
+T
+LIVES LEFT: 3
+  *****
+  *   |
+  *   O
+  *  /|
+  *
+  *
+*****
+B
+BU_
+G
+BUG
+CONGRATULATIONS!!
+YOU HAVE WON!!
